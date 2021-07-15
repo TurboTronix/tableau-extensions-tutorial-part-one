@@ -1,0 +1,13 @@
+{
+  "name": "Tableau_Extensions_Testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TurboTronix/tableau-extensions-tutorial-part-one",
+  "author": "Ron L. <mr.turbo.tronix@gmail.com>",
+  "license": "MIT",
+  "description": "tableau extension test",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "jquery": "^3.6.0"
+  }
+}
